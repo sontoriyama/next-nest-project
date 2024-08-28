@@ -7,8 +7,8 @@ async function bootstrap() {
   app.setGlobalPrefix('api');
 
   const config = new DocumentBuilder()
-    .setTitle('Cats example')
-    .setDescription('The cats API description')
+    .setTitle('Botiga Demostració Next y Nest')
+    .setDescription('anirà augmentant')
     .setVersion('1.0')
     .addTag('cats')
     .build();
